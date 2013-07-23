@@ -1,3 +1,5 @@
+[增加Git命令别名](https://github.com/netwjx/git-extras/wiki/Git%E5%91%BD%E4%BB%A4%E5%88%AB%E5%90%8D)
+
 # Git Extras
 
 Little git extras.
@@ -13,7 +15,7 @@ $ make install
 One-liner:
 
 ```bash
-$ (cd /tmp && git clone --depth 1 https://github.com/visionmedia/git-extras.git && cd git-extras && sudo make install)
+$ (cd /tmp && git clone --depth 1 https://github.com/netwjx/git-extras.git && cd git-extras && sudo make install)
 ```
 
 [MacPorts](http://www.macports.org/)
